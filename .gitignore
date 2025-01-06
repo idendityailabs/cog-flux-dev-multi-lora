@@ -3,3 +3,4 @@ __pycache__
 FLUX.1-dev
 safety-cache
 weights-cache
+.idea
